@@ -3,7 +3,10 @@
   <Project Path="Busqueda de producto en inventario/Busqueda de producto en inventario.csproj" Id="fb233800-a117-49bf-8a10-51c55f3fe7cc" />
   <Project Path="Calificaciones más altas/Calificaciones más altas.csproj" Id="5f1de603-3abe-417c-b167-2fb878379262" />
   <Project Path="Consumo eléctrico total/Consumo eléctrico total.csproj" Id="c4fb7f76-e2f5-48c0-b742-0955d0833699" />
+  <Project Path="Control de inventario por sucursal/Control de inventario por sucursal.csproj" Id="ad1ae499-7cb7-48a8-a045-df953423a476" />
+  <Project Path="Control de puntajes en videojuego/Control de puntajes en videojuego.csproj" Id="26ed7d2a-23e7-45b6-92bf-cf37fb7ce5db" />
   <Project Path="Producción de una fábrica/Producción de una fábrica.csproj" Id="8cd536c3-8f3d-4910-b4eb-2ea092d437d5" />
   <Project Path="Registro de temperaturas por zonas/Registro de temperaturas por zonas.csproj" />
+  <Project Path="Ubicacion de un error en sistema/Ubicacion de un error en sistema.csproj" Id="fcea9281-56ce-489f-b02e-938865dfcd32" />
   <Project Path="Ventas de productos por día/Ventas de productos por día.csproj" Id="d60f1d4e-ccd0-4bfa-8603-0ff591cb3f5d" />
 </Solution>

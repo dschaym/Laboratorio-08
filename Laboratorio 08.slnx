@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="Busqueda de producto en inventario/Busqueda de producto en inventario.csproj" Id="fb233800-a117-49bf-8a10-51c55f3fe7cc" />
+  <Project Path="Calificaciones más altas/Calificaciones más altas.csproj" Id="5f1de603-3abe-417c-b167-2fb878379262" />
   <Project Path="Consumo eléctrico total/Consumo eléctrico total.csproj" Id="c4fb7f76-e2f5-48c0-b742-0955d0833699" />
   <Project Path="Registro de temperaturas por zonas/Registro de temperaturas por zonas.csproj" />
   <Project Path="Ventas de productos por día/Ventas de productos por día.csproj" Id="d60f1d4e-ccd0-4bfa-8603-0ff591cb3f5d" />

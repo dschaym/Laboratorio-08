@@ -18,4 +18,13 @@ for (int i = 0; i < apartamentos; i++)
         total += consumo[i, j];
     }
 }
+Console.WriteLine("Matriz de consumo:");
+for (int i = 0; i < apartamentos; i++)
+{
+    for (int j = 0; j < dias; j++)
+    {
+        Console.Write(consumo[i, j] + " ");
+    }
+    Console.WriteLine();
+}
 Console.WriteLine("Consumo total: " + total);
